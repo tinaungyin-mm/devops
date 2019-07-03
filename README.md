@@ -1,11 +1,11 @@
 # SET09629 DevOPs
 
-## Week 1 Example Project
+## Week 2 Example Project
 
 Objectives 
 
-- Set up IntelliJ IDEA Maven Project 
-- Integrate with GitHub
+- Set up  
+- Do
 
-Based on Lab @ [https://github.com/Kevin-Sim/set09623/tree/master/labs/lab01](https://github.com/Kevin-Sim/set09623/tree/master/labs/lab01)
+Based on Lab @ [https://github.com/Kevin-Sim/set09623/tree/master/labs/lab02](https://github.com/Kevin-Sim/set09623/tree/master/labs/lab02)
  
