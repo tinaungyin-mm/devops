@@ -5,7 +5,7 @@
 Objectives 
 
 - Set up Travis Continual Integration 
-- Add Build Badge [![Build Status](https://travis-ci.org/Kevin-Sim/devops.svg?branch=Week02)](https://travis-ci.org/Kevin-Sim/devops)
+- Add Build Badge [![Build Status](https://travis-ci.org/Kevin-Sim/devops.svg?branch=master)](https://travis-ci.org/Kevin-Sim/devops)
 - Add License Badge [![LICENSE](https://img.shields.io/github/license/Kevin-Sim/devops.svg?style=flat-square)](https://github.com/Kevin-Sim/devops/blob/master/LICENSE)
 - Add Release Badge [![Releases](https://img.shields.io/github/release/Kevin-Sim/devops/all.svg?style=flat-square)](https://github.com/Kevin-Sim/devops/releases)
 
