@@ -13,3 +13,5 @@ Based on Lab @ [https://github.com/Kevin-Sim/set09623/tree/master/labs/lab02](ht
 
 
 
+License [![LICENSE](https://img.shields.io/github/license/Kevin-Sim/semCW.svg?style=flat-square)](https://github.com/Kevin-Sim/semCW/blob/master/LICENSE)
+License [![LICENSE](https://img.shields.io/github/license/Kevin-Sim/devops.svg?style=flat-square)](https://github.com/Kevin-Sim/devops/blob/master/LICENSE)
